@@ -1,5 +1,7 @@
 # ChatbotInterface
 
+##TO train rasa model : rasa train
+
 ##TO run rasa server:
 rasa run -m models --enable-api --cors "*" --debug
 
